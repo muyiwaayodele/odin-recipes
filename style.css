@@ -1,8 +1,11 @@
-div {
+div { 
     background-color: yellow; color: black;
     font-family: Georgia, 'Times New Roman', Times, serif; font-size: 36px;
     font-weight: bolder;}
 .bake {color: red; font-weight: bold; background-color: aquamarine;}
 #best {color: green;}
-ul { background-color: aquamarine; color: brown; font-weight: bold;}
+ul { background-color: aquamarine; color: brown; font-weight: bold;
+margin: 0px;}
+strong { border: 2px solid deeppink; padding: 0; display: inline; color: steelblue;}
+.Project { border: 2px solid firebrick;}
 
