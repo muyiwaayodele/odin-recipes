@@ -4,10 +4,10 @@ div {
     font-weight: bolder; text-align: center;}
 .bake {color: red; font-weight: bold; background-color: aquamarine;}
 #best {color: green;}
-ul { background-color: aquamarine; color: brown; font-weight: bold;
+ul { background-color: rgb(77 179 57); color: black;
 margin: 0px;}
 strong { border: 2px solid deeppink; padding: 0; display: inline; color: steelblue;}
 .Project { border: 2px solid firebrick;}
-#steps { color: purple; font-weight: bold;}
-.all { background-color: aquamarine;}
+#steps { color: purple; font-weight: bolder;}
+.all { background-color: rgb(77, 179, 57);}
 
