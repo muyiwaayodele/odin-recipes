@@ -8,6 +8,10 @@ ul { background-color: rgb(77 179 57); color: black;
 margin: 0px;}
 strong { border: 2px solid deeppink; padding: 0; display: inline; color: steelblue;}
 .Project { border: 2px solid firebrick;}
-#steps { color: purple; font-weight: bolder;}
+#steps { color: red; font-weight: bold; background-color: aquamarine;}
 .all { background-color: rgb(77, 179, 57);}
+.follows { font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 30; font-weight: bold;}
+#need {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 30; font-weight: bold;}
 
