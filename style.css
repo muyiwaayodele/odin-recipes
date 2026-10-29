@@ -17,6 +17,8 @@ font-size: 30; font-weight: bold;}
     font-size: 30; font-weight: bold;}
 .corn { color: red; font-weight: bold; background-color: aquamarine;}
 #skin { background-color: rgb(77, 179, 57);}
-.fri{ color: black; width: 200px; margin: 0 auto; text-align: left; display: inline-block;}
+.fri{ color: black; width: 200px; margin: 0 auto; text-align: left; display: inline-block;
+;}
 .Place { background-color: rgb(77, 179, 57);}
 #sea {color: green;}
+.ref { border-bottom: 2px solid orangered;}
