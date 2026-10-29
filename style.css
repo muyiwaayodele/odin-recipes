@@ -4,8 +4,7 @@ div {
     font-weight: bolder; text-align: center;}
 .bake {color: red; font-weight: bold; background-color: aquamarine;}
 #best {color: green;}
-ul { background-color: rgb(77 179 57); color: black; width: 200px;
-margin: 0 auto; text-align: left; display: inline-block;}
+ul { background-color: rgb(77 179 57); }
 strong { border: 2px solid deeppink; padding: 0; display: inline; color: steelblue;}
 .Project { border: 2px solid firebrick; width: 400px; margin: 0 auto;}
 #steps { color: red; font-weight: bold; background-color: aquamarine;}
@@ -14,4 +13,10 @@ strong { border: 2px solid deeppink; padding: 0; display: inline; color: steelbl
 font-size: 30; font-weight: bold;}
 #need {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 font-size: 30; font-weight: bold;}
-
+.Use {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 30; font-weight: bold;}
+.corn { color: red; font-weight: bold; background-color: aquamarine;}
+#skin { background-color: rgb(77, 179, 57);}
+.fri{ color: black; width: 200px; margin: 0 auto; text-align: left; display: inline-block;}
+.Place { background-color: rgb(77, 179, 57);}
+#sea {color: green;}
