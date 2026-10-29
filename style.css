@@ -4,10 +4,10 @@ div {
     font-weight: bolder; text-align: center;}
 .bake {color: red; font-weight: bold; background-color: aquamarine;}
 #best {color: green;}
-ul { background-color: rgb(77 179 57); color: black;
-margin: 0px;}
+ul { background-color: rgb(77 179 57); color: black; width: 200px;
+margin: 0 auto; text-align: left; display: inline-block;}
 strong { border: 2px solid deeppink; padding: 0; display: inline; color: steelblue;}
-.Project { border: 2px solid firebrick;}
+.Project { border: 2px solid firebrick; width: 400px; margin: 0 auto;}
 #steps { color: red; font-weight: bold; background-color: aquamarine;}
 .all { background-color: rgb(77, 179, 57);}
 .follows { font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
